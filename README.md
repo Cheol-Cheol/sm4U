@@ -8,6 +8,9 @@
 
 <br/>
 
+- [ISSUE](https://github.com/kfmp/sm4U/issues) <br/>
+- [PR](https://github.com/kfmp/sm4U/pulls)
+
 ### TEAM MEMBERS
 
 <table align=center>
